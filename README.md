@@ -11,6 +11,7 @@ This repository contains a Jupyter notebook that analyzes the "Predict Students'
 - **Title**: Predict Students' Dropout and Academic Success
 - **Format**: The dataset is automatically fetched using the `ucimlrepo` library
 - **Structure**: Contains features (X) and target variables (y) related to student academic performance
+- **Link to Dataset**: `https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success`
 
 ## Dependencies
 
