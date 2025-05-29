@@ -18,7 +18,7 @@ This repository contains a Jupyter notebook that analyzes the "Predict Students'
 The notebook requires the following Python packages:
 
 ```bash
-pip install ucimlrepo pandas
+pip install ucimlrepo
 ```
 
 ## Code Structure
